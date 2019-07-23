@@ -1,0 +1,25 @@
+{
+  "name": "crash_auto",
+  "version": "1.0.0",
+  "description": "crashAuto",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Somewhere",
+  "license": "ISC",
+  "dependencies": {
+    "app-root-path": "^2.2.1",
+    "eosjs": "^20.0.0-beta3",
+    "eosjs-ecc": "^4.0.4",
+    "express": "^4.17.0",
+    "log4js": "^4.2.0",
+    "mathjs": "^5.10.3",
+    "moment": "^2.24.0",
+    "mysql": "^2.17.1",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.0",
+    "socket.io": "^2.2.0",
+    "text-encoding": "^0.7.0"
+  }
+}
